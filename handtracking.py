@@ -1,3 +1,8 @@
+'''
+NAME: Amitesh singh
+This project is done under the supervision of Mitali Chugh Mam. 
+I am very greatful to her for her constant support through the project
+'''
 import time
 import mediapipe as mp
 import cv2
